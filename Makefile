@@ -11,4 +11,4 @@ all: $(FILE).pdf
 .PHONY: clean
 
 clean:
-	rm -f *.dvi *.aux *.log *.bbl *.blg *~
+	rm -f *.dvi *.aux *.log *.bbl *.blg *~ rad_dam_review.pdf

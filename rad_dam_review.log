@@ -1,4 +1,4 @@
-This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2013.6.3)  28 MAY 2015 09:59
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2013.6.3)  28 MAY 2015 10:27
 entering extended mode
 **rad_dam_review.tex
 (./rad_dam_review.tex
@@ -247,16 +247,18 @@ LaTeX Warning: No \author given.
 [1
 
 {/usr/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main.tex
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 41.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 41.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 41.
 
+LaTeX Warning: Citation `sauli' on page 2 undefined on input line 28.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 42.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 42.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 42.
 [2]
 
-LaTeX Warning: Citation `what' on page 3 undefined on input line 82.
+LaTeX Warning: Citation `what' on page 3 undefined on input line 83.
 
 <Polystyrene.pdf, id=23, 614.295pt x 794.97pt>
 File: Polystyrene.pdf Graphic file (type pdf)
@@ -307,10 +309,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2281 strings out of 94500
- 32033 string characters out of 1176767
+ 2282 strings out of 94500
+ 32040 string characters out of 1176767
  84976 words of memory out of 1000000
- 5445 multiletter control sequences out of 10000+50000
+ 5446 multiletter control sequences out of 10000+50000
  8848 words of font info for 31 fonts, out of 500000 for 2000
  580 hyphenation exceptions out of 1000
  35i,6n,38p,413b,238s stack positions out of 1500i,500n,5000p,200000b,5000s
@@ -326,4 +328,4 @@ hare/texmf/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/blues
 ky/cm/cmmi12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi8.pfb></usr/share
 /texmf/fonts/type1/bluesky/cm/cmr12.pfb></usr/share/texmf/fonts/type1/bluesky/c
 m/cmbx12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr17.pfb>
-Output written on rad_dam_review.pdf (11 pages, 221632 bytes).
+Output written on rad_dam_review.pdf (11 pages, 221785 bytes).
