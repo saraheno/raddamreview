@@ -1,31 +1,74 @@
-\documentclass[12pt]{article}
-\usepackage{graphicx,subfigure}
-\usepackage{macross}
-\usepackage{lineno}
-\usepackage{wrapfig}
-\usepackage{caption}
-\usepackage{url}
-%\usepackage{subcaption}
-\usepackage[margin=1.1in]{geometry}
-%
+\documentclass[review]{elsarticle}
+
+\usepackage{lineno,hyperref}
+\modulolinenumbers[5]
+
+\journal{Nuclear Instruments and Methods B}
+
+%%%%%%%%%%%%%%%%%%%%%%%
+%% Elsevier bibliography styles
+%%%%%%%%%%%%%%%%%%%%%%%
+%% To change the style, put a % in front of the second line of the current style and
+%% remove the % from the second line of the style you would like to use.
+%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Numbered
+%\bibliographystyle{model1-num-names}
+
+%% Numbered without titles
+%\bibliographystyle{model1a-num-names}
+
+%% Harvard
+%\bibliographystyle{model2-names.bst}\biboptions{authoryear}
+
+%% Vancouver numbered
+%\usepackage{numcompress}\bibliographystyle{model3-num-names}
+
+%% Vancouver name/year
+%\usepackage{numcompress}\bibliographystyle{model4-names}\biboptions{authoryear}
+
+%% APA style
+%\bibliographystyle{model5-names}\biboptions{authoryear}
+
+%% AMA style
+%\usepackage{numcompress}\bibliographystyle{model6-num-names}
+
+%% `Elsevier LaTeX' style
+\bibliographystyle{elsarticle-num}
+%%%%%%%%%%%%%%%%%%%%%%%
+
 \begin{document}
-\title{Review of Studies of Radiation Damage in Organic Scintillators}
-\date{}
-\maketitle
-\thispagestyle{empty}
 
-\newpage
-%\openup 1.5em
-%\linenumbers
+\begin{frontmatter}
+
+\title{A review of radiation damage in plastic scintillators}
 
 
-\input{main}
+%% or include affiliations in footnotes:
+\author[umd]{Sarah Eno\corref{mycorrespondingauthor}}
+\cortext[mycorrespondingauthor]{Corresponding author}
+\ead{eno@umd.edu}
 
 
 
-\newpage
-\section{Bibliography and References cited}
-\bibliographystyle{unsrt}
-\bibliography{rad_dam_review}
+\address[umd]{Dept. Physics, U. Maryland, College Park MD 30742 USA}
+
+\begin{abstract}
+A review of plastic scintilators
+\end{abstract}
+
+\begin{keyword}
+plastic scintillator\sep fluorescence\sep radiation hardness
+\end{keyword}
+
+\end{frontmatter}
+
+\linenumbers
+
+\include{main}
+
+\section*{References}
+
+\bibliography{rad_dam_review.bib}
 
 \end{document}

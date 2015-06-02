@@ -1,11 +1,25 @@
 \begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
 
 \bibitem{birks}
-J.B. Birks.
-\newblock {\em {The Theory and Practice of Scintillation Counting}}.
-\newblock International Series of Monographs on Electronics and
-  Instrumentation, Volume 27. Pergamon Press, The Macmillan Company, New York,
-  1964.
+J.~Birks, {The Theory and Practice of Scintillation Counting}, International
+  Series of Monographs on Electronics and Instrumentation, Volume 27, Pergamon
+  Press, The Macmillan Company, New York, 1964.
+
+\bibitem{sauli}
+C.~Zorn,
+  \href{http://www.worldscientific.com/doi/abs/10.1142/9789814360333_0004}{Plastic
+  and Liquid Organic Scintillators}, Ch.~4, pp. 218--279.
+\newblock \href
+  {http://arxiv.org/abs/http://www.worldscientific.com/doi/pdf/10.1142/9789814360333_0004}
+  {\path{arXiv:http://www.worldscientific.com/doi/pdf/10.1142/9789814360333_0004}},
+  \href {http://dx.doi.org/10.1142/9789814360333_0004}
+  {\path{doi:10.1142/9789814360333_0004}}.
+\newline\urlprefix\url{http://www.worldscientific.com/doi/abs/10.1142/9789814360333_0004}
 
 \bibitem{stgobain}
 http://www.crystals.saint-gobain.com/Plastic\_Scintillation.aspx.
@@ -17,142 +31,190 @@ http://kuraraypsf.jp/psf/.
 http://www.eljentechnology.com/index.php/products/plastic-scintillators.
 
 \bibitem{brown}
-AJ~Thomson.
-\newblock An introduction to spectroscopy for biochemists: Edited by s b brown.
-  academic press, london. 1980. £16.60 isbn 0-12-137080.
-\newblock {\em Biochemical Education}, 9(1):35--35, 1981.
+A.~Thomson, \href{http://dx.doi.org/10.1016/0307-4412(81)90077-7}{An
+  introduction to spectroscopy for biochemists: Edited by s b brown. academic
+  press, london. 1980. £16.60 isbn 0-12-137080}, Biochemical Education 9~(1)
+  (1981) 35--35.
+\newblock \href {http://dx.doi.org/10.1016/0307-4412(81)90077-7}
+  {\path{doi:10.1016/0307-4412(81)90077-7}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/0307-4412(81)90077-7}
 
 \bibitem{anna}
-Anna Pla-Dalmau.
-\newblock private communication.
+A.~Pla-Dalmau, private communication.
 
 \bibitem{birksblack}
-J~B Birks and F~A Black.
-\newblock Deterioration of anthracene under Î±-particle irradiation.
-\newblock {\em Proceedings of the Physical Society. Section A}, 64(5):511,
-  1951.
+J.~B. Birks, F.~A. Black,
+  \href{http://stacks.iop.org/0370-1298/64/i=5/a=112}{Deterioration of
+  anthracene under Î±-particle irradiation}, Proceedings of the Physical
+  Society. Section A 64~(5) (1951) 511.
+\newline\urlprefix\url{http://stacks.iop.org/0370-1298/64/i=5/a=112}
 
 \bibitem{rosmanzimmer}
-I.M. Rosman and K.G. Zimmer.
-\newblock Damage to plastic scintillators by ionizing radiation.
-\newblock {\em The Soviet Journal of Atomic Energy}, 2(1):57--62, 1957.
+I.~Rosman, K.~Zimmer, \href{http://dx.doi.org/10.1007/BF01480707}{Damage to
+  plastic scintillators by ionizing radiation}, The Soviet Journal of Atomic
+  Energy 2~(1) (1957) 57--62.
+\newblock \href {http://dx.doi.org/10.1007/BF01480707}
+  {\path{doi:10.1007/BF01480707}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1007/BF01480707}
 
 \bibitem{harrah}
-L.~A. Harrah.
-\newblock Esr of radicals produced in co60 gamma-irradiated polystyrene.
-\newblock {\em Molecular Crystals}, 9(1):197--210, 1969.
+L.~A. Harrah, \href{http://dx.doi.org/10.1080/15421406908082739}{Esr of
+  radicals produced in co60 gamma-irradiated polystyrene}, Molecular Crystals
+  9~(1) (1969) 197--210.
+\newblock \href
+  {http://arxiv.org/abs/http://dx.doi.org/10.1080/15421406908082739}
+  {\path{arXiv:http://dx.doi.org/10.1080/15421406908082739}}, \href
+  {http://dx.doi.org/10.1080/15421406908082739}
+  {\path{doi:10.1080/15421406908082739}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1080/15421406908082739}
 
 \bibitem{34504}
-U.~Holm and K.~Wick.
-\newblock Radiation stability of plastic scintillators and wave-length
-  shifters.
-\newblock {\em Nuclear Science, IEEE Transactions on}, 36(1):579--583, Feb
-  1989.
+U.~Holm, K.~Wick, Radiation stability of plastic scintillators and wave-length
+  shifters, Nuclear Science, IEEE Transactions on 36~(1) (1989) 579--583.
+\newblock \href {http://dx.doi.org/10.1109/23.34504}
+  {\path{doi:10.1109/23.34504}}.
 
 \bibitem{Wick1991472}
-K.~Wick, D.~Paul, P.~SchrÃ¶der, V.~Stieber, and B.~Bicken.
-\newblock Recovery and dose rate dependence of radiation damage in
-  scintillators, wavelength shifters and light guides.
-\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
-  Beam Interactions with Materials and Atoms}, 61(4):472 -- 486, 1991.
+K.~Wick, D.~Paul, P.~SchrÃ¶der, V.~Stieber, B.~Bicken,
+  \href{http://www.sciencedirect.com/science/article/pii/0168583X91953258}{Recovery
+  and dose rate dependence of radiation damage in scintillators, wavelength
+  shifters and light guides}, Nuclear Instruments and Methods in Physics
+  Research Section B: Beam Interactions with Materials and Atoms 61~(4) (1991)
+  472 -- 486.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/0168-583X(91)95325-8}
+  {\path{doi:http://dx.doi.org/10.1016/0168-583X(91)95325-8}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/0168583X91953258}
 
 \bibitem{289295}
-B.~Bicken, U.~Holm, T.~Marckmann, K.~Wick, and M.~Rohde.
-\newblock Recovery and permanent radiation damage of plastic scintillators at
-  different dose rates.
-\newblock {\em Nuclear Science, IEEE Transactions on}, 38(2):188--193, Apr
-  1991.
+B.~Bicken, U.~Holm, T.~Marckmann, K.~Wick, M.~Rohde, Recovery and permanent
+  radiation damage of plastic scintillators at different dose rates, Nuclear
+  Science, IEEE Transactions on 38~(2) (1991) 188--193.
+\newblock \href {http://dx.doi.org/10.1109/23.289295}
+  {\path{doi:10.1109/23.289295}}.
 
 \bibitem{173180}
-B.~Bicken, A.~Dannemann, U.~Holm, T.~Neumann, and K.~Wick.
-\newblock Influence of temperature treatment on radiation stability of plastic
-  scintillator and wave-length shifter.
-\newblock {\em Nuclear Science, IEEE Transactions on}, 39(5):1212--1216, Oct
-  1992.
+B.~Bicken, A.~Dannemann, U.~Holm, T.~Neumann, K.~Wick, Influence of temperature
+  treatment on radiation stability of plastic scintillator and wave-length
+  shifter, Nuclear Science, IEEE Transactions on 39~(5) (1992) 1212--1216.
+\newblock \href {http://dx.doi.org/10.1109/23.173180}
+  {\path{doi:10.1109/23.173180}}.
 
 \bibitem{467829}
-G.~Buss, A.~Dannemann, U.~Holm, and K.~Wick.
-\newblock Radiation damage by neutrons to plastic scintillators.
-\newblock {\em Nuclear Science, IEEE Transactions on}, 42(4):315--319, Aug
-  1995.
+G.~Buss, A.~Dannemann, U.~Holm, K.~Wick, Radiation damage by neutrons to
+  plastic scintillators, Nuclear Science, IEEE Transactions on 42~(4) (1995)
+  315--319.
+\newblock \href {http://dx.doi.org/10.1109/23.467829}
+  {\path{doi:10.1109/23.467829}}.
 
 \bibitem{Wulkop1995141}
-B.~Wulkop, K.~Wick, W.~Busjan, A.~Dannemann, and U.~Holm.
-\newblock Evidence for the creation of short-lived absorption centers in
-  irradiated scintillators.
-\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
-  Beam Interactions with Materials and Atoms}, 95(1):141 -- 143, 1995.
+B.~Wulkop, K.~Wick, W.~Busjan, A.~Dannemann, U.~Holm,
+  \href{http://www.sciencedirect.com/science/article/pii/0168583X94004358}{Evidence
+  for the creation of short-lived absorption centers in irradiated
+  scintillators}, Nuclear Instruments and Methods in Physics Research Section
+  B: Beam Interactions with Materials and Atoms 95~(1) (1995) 141 -- 143.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/0168-583X(94)00435-8}
+  {\path{doi:http://dx.doi.org/10.1016/0168-583X(94)00435-8}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/0168583X94004358}
 
 \bibitem{Bodmann2001299}
-B~Bodmann and U~Holm.
-\newblock Neutron-irradiated plastic scintillators.
-\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
-  Beam Interactions with Materials and Atoms}, 185(1–4):299 -- 304, 2001.
+B.~Bodmann, U.~Holm,
+  \href{http://www.sciencedirect.com/science/article/pii/S0168583X01007625}{Neutron-irradiated
+  plastic scintillators}, Nuclear Instruments and Methods in Physics Research
+  Section B: Beam Interactions with Materials and Atoms 185~(1–4) (2001) 299
+  -- 304.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/S0168-583X(01)00762-5}
+  {\path{doi:http://dx.doi.org/10.1016/S0168-583X(01)00762-5}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0168583X01007625}
 
 \bibitem{Bodmann2003495}
-B.~Bodmann, S.~GÃ¶b, and U.~Holm.
-\newblock \{LET\} effects of neutron irradiated plastic scintillators.
-\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
-  Beam Interactions with Materials and Atoms}, 208(0):495 -- 499, 2003.
-\newblock Ionizing Radiation and Polymers.
+B.~Bodmann, S.~GÃ¶b, U.~Holm,
+  \href{http://www.sciencedirect.com/science/article/pii/S0168583X03006645}{\{LET\}
+  effects of neutron irradiated plastic scintillators}, Nuclear Instruments and
+  Methods in Physics Research Section B: Beam Interactions with Materials and
+  Atoms 208~(0) (2003) 495 -- 499, ionizing Radiation and Polymers.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/S0168-583X(03)00664-5}
+  {\path{doi:http://dx.doi.org/10.1016/S0168-583X(03)00664-5}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0168583X03006645}
 
 \bibitem{173178}
-A.D. Bross and A.~Pla-Dalmau.
-\newblock Radiation damage of plastic scintillators.
-\newblock {\em Nuclear Science, IEEE Transactions on}, 39(5):1199--1204, Oct
-  1992.
+A.~Bross, A.~Pla-Dalmau, Radiation damage of plastic scintillators, Nuclear
+  Science, IEEE Transactions on 39~(5) (1992) 1199--1204.
+\newblock \href {http://dx.doi.org/10.1109/23.173178}
+  {\path{doi:10.1109/23.173178}}.
 
 \bibitem{todd}
-Audrey Todd.
-\newblock The mechanisms of radiation-induced changes in vinyl polymers.
-\newblock {\em Journal of Polymer Science}, 42(139):223--247, 1960.
+A.~Todd, \href{http://dx.doi.org/10.1002/pol.1960.1204213925}{The mechanisms of
+  radiation-induced changes in vinyl polymers}, Journal of Polymer Science
+  42~(139) (1960) 223--247.
+\newblock \href {http://dx.doi.org/10.1002/pol.1960.1204213925}
+  {\path{doi:10.1002/pol.1960.1204213925}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1002/pol.1960.1204213925}
 
 \bibitem{weir}
-N.A. Weir.
-\newblock The effects of polymer degradation on plastic scintillators.
-\newblock {\em The International Journal of Applied Radiation and Isotopes},
-  23(8):371 -- 379, 1972.
+N.~Weir,
+  \href{http://www.sciencedirect.com/science/article/pii/0020708X72901196}{The
+  effects of polymer degradation on plastic scintillators}, The International
+  Journal of Applied Radiation and Isotopes 23~(8) (1972) 371 -- 379.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/0020-708X(72)90119-6}
+  {\path{doi:http://dx.doi.org/10.1016/0020-708X(72)90119-6}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/0020708X72901196}
 
 \bibitem{bicken}
-B.~Bicken, A.~Dannemann, U.~Holm, T.~Neumann, and K.~Wick.
-\newblock Influence of temperature treatment on radiation stability of plastic
-  scintillator and wave-length shifter.
-\newblock {\em Nuclear Science, IEEE Transactions on}, 39(5):1212--1216, Oct
-  1992.
+B.~Bicken, A.~Dannemann, U.~Holm, T.~Neumann, K.~Wick, Influence of temperature
+  treatment on radiation stability of plastic scintillator and wave-length
+  shifter, Nuclear Science, IEEE Transactions on 39~(5) (1992) 1212--1216.
+\newblock \href {http://dx.doi.org/10.1109/23.173180}
+  {\path{doi:10.1109/23.173180}}.
 
 \bibitem{johnson}
-K.F. Johnson and H.L. Whitaker.
-\newblock Temperature treatment of plastic scintillator affects radiation
-  hardness.
-\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
-  Accelerators, Spectrometers, Detectors and Associated Equipment}, 301(2):372
-  -- 375, 1991.
+K.~Johnson, H.~Whitaker,
+  \href{http://www.sciencedirect.com/science/article/pii/016890029190480E}{Temperature
+  treatment of plastic scintillator affects radiation hardness}, Nuclear
+  Instruments and Methods in Physics Research Section A: Accelerators,
+  Spectrometers, Detectors and Associated Equipment 301~(2) (1991) 372 -- 375.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/0168-9002(91)90480-E}
+  {\path{doi:http://dx.doi.org/10.1016/0168-9002(91)90480-E}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/016890029190480E}
 
 \bibitem{berlman}
-I.B. berlman.
-\newblock The effect of massive co$^{60}$ doses on the light output of a
-  scintillator solution.
-\newblock {\em Radiological Physics Division Semiannula Report for July through
-  December 1957}, 1958.
+I.~berlman, \href{http://www.osti.gov/scitech/biblio/4337369}{The effect of
+  massive co$^{60}$ doses on the light output of a scintillator solution},
+  Radiological Physics Division Semiannula Report for July through December
+  1957.
+\newline\urlprefix\url{http://www.osti.gov/scitech/biblio/4337369}
 
 \bibitem{Biagtan1996125}
-E.~Biagtan, E.~Goldberg, R.~Stephens, E.~Valeroso, and J.~Harmon.
-\newblock Gamma dose and dose rate effects on scintillator light output.
-\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
-  Beam Interactions with Materials and Atoms}, 108(1–2):125 -- 128, 1996.
+E.~Biagtan, E.~Goldberg, R.~Stephens, E.~Valeroso, J.~Harmon, Gamma dose and
+  dose rate effects on scintillator light output, Nuclear Instruments and
+  Methods in Physics Research Section B: Beam Interactions with Materials and
+  Atoms 108~(1–2) (1996) 125 -- 128.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/0168-583X(95)00874-8}
+  {\path{doi:http://dx.doi.org/10.1016/0168-583X(95)00874-8}}.
 
 \bibitem{zornliquid}
-C.~Zorn, S.~Majewski, R.~Wojcik, C.~Hurlbut, and W.~Moser.
-\newblock Preliminary study of radiation damage in liquid scintillators.
-\newblock {\em Nuclear Science, IEEE Transactions on}, 37(2):487--491, Apr
-  1990.
+C.~Zorn, S.~Majewski, R.~Wojcik, C.~Hurlbut, W.~Moser, Preliminary study of
+  radiation damage in liquid scintillators, Nuclear Science, IEEE Transactions
+  on 37~(2) (1990) 487--491.
+\newblock \href {http://dx.doi.org/10.1109/23.106666}
+  {\path{doi:10.1109/23.106666}}.
 
 \bibitem{Klein1967399}
-J.~Klein, J.~Gresset, F.~Heisel, and G.~Laustriat.
-\newblock Effets des rayonnements-γ sur les caracteristiques des
-  scintillateurs organiques.
-\newblock {\em The International Journal of Applied Radiation and Isotopes},
-  18(6):399 -- 406, 1967.
+J.~Klein, J.~Gresset, F.~Heisel, G.~Laustriat,
+  \href{http://www.sciencedirect.com/science/article/pii/0020708X67901433}{Effets
+  des rayonnements-γ sur les caracteristiques des scintillateurs organiques},
+  The International Journal of Applied Radiation and Isotopes 18~(6) (1967) 399
+  -- 406.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/0020-708X(67)90143-3}
+  {\path{doi:http://dx.doi.org/10.1016/0020-708X(67)90143-3}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/0020708X67901433}
 
 \bibitem{kenichi1}
 
@@ -161,9 +223,7 @@ J.~Klein, J.~Gresset, F.~Heisel, and G.~Laustriat.
 
 
 \bibitem{fsuliquid}
-P.~Datte, G.~Dugeon, and {\it et al.}
-\newblock {Effect of radiation-induced discoloration of the cladding on liquid
-  scintillating fibers}.
-\newblock 1990.
+P.~Datte, G.~Dugeon, {\it et al.}, {Effect of radiation-induced discoloration
+  of the cladding on liquid scintillating fibers}.
 
 \end{thebibliography}

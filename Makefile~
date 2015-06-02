@@ -1,6 +1,6 @@
 PDFLATEX := pdflatex
 BIBTEX := bibtex
-FILE := rad_dam_review
+FILE := afluorescence
 
 %.pdf:  %.tex
 	$(PDFLATEX) $(FILE).tex && $(BIBTEX) $(FILE) && \
