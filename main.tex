@@ -25,12 +25,13 @@ The scintillation mechanism for organic scintillators
 was studied intensively during
 the 1950s and 1960s, and is summarized in the famous book by
 J.B. Birks \cite{birks}. 
-A useful review from 1993 for particle physicists can be found at \cite{sauli}.
+A very useful, thorough review from 1993 for particle physicists can be found at \cite{sauli}.  Another useful review is \cite{Bross1990315}.
 Plastic scintillators and wavelength shifters, including
 wavelength shifting fibers, that are currently available
 from companies such as St. Gobain \cite{stgobain}, Kuraray \cite{kuraray}, and 
 Eljen \cite{eljen}, Are the direct descendants of those
-described in this work.  The scintillation is due to the
+described in this work.  For a description of the manufacturing process, see \cite{sauli}.
+The scintillation is due to the
 electronic structure of the carbon atoms in complex, organic molecules.  
 Carbon
 has two 2S electrons.  When forming compounds, one of these is promoted
@@ -139,9 +140,20 @@ and thermal diffusion (collisions)
 Migration is important for common scintillators, as this can transfer
 the excitation of the substrate to the dopant, and 
 thus lead to the emission
-of the detectable light.  A second dopant is often added to
+of the detectable light.  
+The major mechanism that transfers the excitation from the substrate to the
+primary dopant depends on the dopant concentration \cite{sauli}.  
+At low concentrations, the primary mechanism is radiative.  As the
+concentration increases, a non-radiative dipole-dipole exchanged
+called ``Forster transfer''\cite{forster} becomes increasing important.  Both
+of these processes depend on the spectral overlap between the
+substrate and the primary dopant (the second even though it is non-
+radiative).
+A second dopant is often added to
 shift the wave length of 
 the light to one suitable for existing photo-detectors.
+The primary transfer mechanism between the first and second 
+dopant is radiative \cite{sauli}.
 We refer to these two types of dopants 
 as the primary dopant and the wavelength-shifting dopant.
 
@@ -219,6 +231,11 @@ The change in energy levels can also enhance nonradiative decay modes.
 For polystyrene, radical production and cross linking
 are important \cite{Wick1991472}.  For other substrates, different
 mechanisms can be dominant \cite{Wick1991472}.
+According to the model described in ~\cite{kauffman}, polyene's
+can form where a tertiary benzylic forms in the plastic under irradation.
+The absorption of these bands depends on their length.  Longer bands
+absorb at longer wave lengths, which may explain why the absorption bands
+shift towards longer wave lengths after irradiation.
 The result can be absorption of radiation,
 less radiation and less transfer of the
 excitation to the dopant.
@@ -241,6 +258,10 @@ which do not.  It is thought that this is the mechanism
 through which ``bleaching'' of radiation damaged scintillator
 occurs, after (or even during) the exposure (where bleaching
 is a decrease in the radiation-induced self-absorption with time).
+Note, however, that Oxygen is known be be a quenching molecule~\cite{sauli}, 
+in that it absorbs photons responsible for the radiative transfer
+from the substrate to the primary dopant.  For liquids, it is important
+to avoid dissolved oxygen.
 
 Since the effects depend in detail on the types and quantities
 of the various different damage possibilities (the radicals produced,
@@ -303,6 +324,16 @@ In \cite{Wulkop1995141}, Wick develops a model that explains
 both the temporary light self absorption
 and its time dependence, and permanent induced self-absorption in
 terms of oxygen diffusion.
+An interesting study of dose rate effects on the absorption length
+in plastic fibers is in \cite{zorn2}.  
+He finds that permenant damage in the presense of oxygen depends
+on both the dose rate and the atmosphere.  At low dose rates,
+an inert atmosphere is better but at high dose rates, one containing 
+oxygen is better.
+Also, in \cite{zorn3}, results on a replacement substrate
+that may be more radiation resistant than PVT or PS are presented.
+In general, polyvinylxylene is more radiation resistant than PVT, which
+is better than PS \cite{sauli}.
 
 Studies on the effect of radiation on the light yield are fewer
 than those on self-absorption.
@@ -335,6 +366,10 @@ reduced migration from the substrate
 to the dopant or deexcitation of the substrate via heat.
 A 1992 study by Bross and Pla-Dalmau, using polystyrene,
 reached similar conclusions \cite{173178}.
+
+In another study by Bross, Pla-Dalmau \it{et al.} from 1991, the authors look at light output for various primary and seconary dopants for a dose of 10 Mrad accumulated with a relatively high (0.4 Mrad/h) dose rate.  They looked at this for 2 different concentrations of the secondary dopant.  They optimized the concentration of the first dopant using the light output before irradation.  They found no change to the intrinsic light output, indicating at high dose rates the dopants were
+not damaged by this large dose.  
+
 
 In \cite{Wick1991472}, Wick also studies decreased light
 output for a plastic scintillator from Kuraray, SCSN-38, which
@@ -459,7 +494,9 @@ There is no information on dose-rate effects.
 The published works on liquid scintillators that we were able
 to find was by Zorn \cite{zornliquid} in 1990, the paper
 discussed previously from Berlman in 1958, and a paper
-by Klein from 1967\cite{Klein1967399}.  There is also
+by Klein from 1967\cite{Klein1967399}.  
+There are papers on using scintilators in capilaries for calorimetry\cite{white}.
+There is also
 unpublished work from CDF using Bicron517L\cite{kenichi1} and
 \cite{kenichi2}.
 There is also an unreferred difficult-to-obtain conference
