@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  2 JUN 2015 09:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  5 JUN 2015 10:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -316,196 +316,216 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 
-Package natbib Warning: Citation `what' on page 3 undefined on input line 83.
+Package natbib Warning: Citation `what' on page 3 undefined on input line 84.
 
-<Polystyrene.pdf, id=58, 614.295pt x 794.97pt>
+<Polystyrene.pdf, id=61, 614.295pt x 794.97pt>
 File: Polystyrene.pdf Graphic file (type pdf)
  <use Polystyrene.pdf>
-Package pdftex.def Info: Polystyrene.pdf used on input line 96.
+Package pdftex.def Info: Polystyrene.pdf used on input line 97.
 (pdftex.def)             Requested size: 170.71652pt x 220.92824pt.
 
-<Pistates.pdf, id=59, 614.295pt x 794.97pt>
+<Pistates.pdf, id=62, 614.295pt x 794.97pt>
 File: Pistates.pdf Graphic file (type pdf)
  <use Pistates.pdf>
-Package pdftex.def Info: Pistates.pdf used on input line 97.
+Package pdftex.def Info: Pistates.pdf used on input line 98.
 (pdftex.def)             Requested size: 170.71652pt x 220.92824pt.
- [3] [4 <./Polystyrene.pdf> <./Pistates.pdf>] [5] [6] [7] [8] [9] [10]
-<fitWick8s.pdf, id=185, 569.12625pt x 385.44pt>
+ [3] [4 <./Polystyrene.pdf> <./Pistates.pdf>] [5] [6] [7] [8] [9] [10] [11]
+<fitWick8s.pdf, id=209, 569.12625pt x 385.44pt>
 File: fitWick8s.pdf Graphic file (type pdf)
  <use fitWick8s.pdf>
-Package pdftex.def Info: fitWick8s.pdf used on input line 438.
+Package pdftex.def Info: fitWick8s.pdf used on input line 481.
 (pdftex.def)             Requested size: 170.71652pt x 115.61523pt.
 
-<fitWick10bll.pdf, id=186, 614.295pt x 794.97pt>
+<fitWick10bll.pdf, id=210, 614.295pt x 794.97pt>
 File: fitWick10bll.pdf Graphic file (type pdf)
  <use fitWick10bll.pdf>
-Package pdftex.def Info: fitWick10bll.pdf used on input line 439.
+Package pdftex.def Info: fitWick10bll.pdf used on input line 482.
 (pdftex.def)             Requested size: 170.71652pt x 220.92824pt.
 
-[11 <./fitWick8s.pdf> <./fitWick10bll.pdf>]) [12] (./rad_dam_review.bbl
+[12] [13 <./fitWick8s.pdf> <./fitWick10bll.pdf>]) [14] (./rad_dam_review.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 14--23
-\OT1/cmr/m/n/10 279.  []$\OT1/cmtt/m/n/10 arXiv : http : / / www . worldscienti
-fic . com / doi / pdf / 10 . 1142 /
+\OT1/cmr/m/it/10 URL []$\OT1/cmtt/m/it/10 http : / / www . worldscientific . co
+m / doi / abs / 10 . 1142 /
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--23
-\OT1/cmr/m/n/10 URL []$\OT1/cmtt/m/n/10 http : / / www . worldscientific . com 
-/ doi / abs / 10 . 1142 /
- []
-
-Missing character: There is no Â in font cmr10!
-Missing character: There is no £ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no Ž in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no ± in font cmr10!
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--70
-[]\OT1/cmr/m/n/10 L. A. Har-rah, []Esr of rad-i-cals pro-duced in co60 gamma-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--70
-\OT1/cmr/m/n/10 irradiated polystyrene[], Molec-u-lar Crys-tals 9 (1) (1969) 19
-7--
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--70
-\OT1/cmr/m/n/10 210.  []$\OT1/cmtt/m/n/10 arXiv : http : / / dx . doi . org / 1
-0 . 1080 / 15421406908082739$[]\OT1/cmr/m/n/10 ,
- []
-
-[13
-
-]
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ƒ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no ¶ in font cmr10!
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--88
-\OT1/cmr/m/n/10 URL []$\OT1/cmtt/m/n/10 http : / / www . sciencedirect . com / 
-science / article / pii /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 111--120
-\OT1/cmr/m/n/10 URL []$\OT1/cmtt/m/n/10 http : / / www . sciencedirect . com / 
-science / article / pii /
- []
-
-[14]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-
-Underfull \hbox (badness 1184) in paragraph at lines 122--131
-[]\OT1/cmr/m/n/10 B. Bod-mann, U. Holm, []Neutron-irradiated plas-tic scin-til-
-la-tors[], Nu-
- []
-
-
-Underfull \hbox (badness 1019) in paragraph at lines 122--131
-\OT1/cmr/m/n/10 In-ter-ac-tions with Ma-te-ri-als and Atoms 185 (14) (2001) 299
- -- 304.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--131
-\OT1/cmr/m/n/10 URL []$\OT1/cmtt/m/n/10 http : / / www . sciencedirect . com / 
-science / article / pii /
- []
-
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ƒ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no ¶ in font cmr10!
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 135.
-
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 27.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 135.
+LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 27.
 
-Underfull \hbox (badness 3168) in paragraph at lines 133--142
-[]\OT1/cmr/m/n/10 B. Bod-mann, S. Gb, U. Holm, []\OMS/cmsy/m/n/10 f\OT1/cmr/m/n
-/10 LET\OMS/cmsy/m/n/10 g \OT1/cmr/m/n/10 ef-fects of neu-tron ir-ra-
+Underfull \hbox (badness 10000) in paragraph at lines 25--34
+\OT1/cmr/m/it/10 URL []$\OT1/cmtt/m/it/10 http : / / www . sciencedirect . com 
+/ science / article / pii /
+ []
+
+Missing character: There is no Â in font cmti10!
+Missing character: There is no £ in font cmti10!
+Missing character: There is no Ã in font cmti10!
+Missing character: There is no Ž in font cmti10!
+Missing character: There is no Â in font cmti10!
+Missing character: There is no ± in font cmti10!
+[15
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 75--84
+[]\OT1/cmr/m/it/10 L. A. Har-rah, []Esr of rad-i-cals pro-duced in co60 gamma-
  []
 
 
-Underfull \hbox (badness 4832) in paragraph at lines 133--142
-\OT1/cmr/m/n/10 di-ated plas-tic scin-til-la-tors[], Nu-clear In-stru-ments and
- Meth-ods in
+Underfull \hbox (badness 10000) in paragraph at lines 75--84
+\OT1/cmr/m/it/10 irradiated polystyrene[], Molec-u-lar Crys-tals 9 (1) (1969) 1
+97--
  []
 
 
-Underfull \hbox (badness 1360) in paragraph at lines 133--142
-\OT1/cmr/m/n/10 Physics Re-search Sec-tion B: Beam In-ter-ac-tions with Ma-te-r
-i-als and
+Underfull \hbox (badness 10000) in paragraph at lines 75--84
+\OT1/cmr/m/it/10 210.  []$\OT1/cmtt/m/it/10 arXiv : http : / / dx . doi . org /
+ 10 . 1080 / 15421406908082739$[]\OT1/cmr/m/it/10 ,
+ []
+
+Missing character: There is no Ã in font cmti10!
+Missing character: There is no ƒ in font cmti10!
+Missing character: There is no Â in font cmti10!
+Missing character: There is no ¶ in font cmti10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--102
+\OT1/cmr/m/it/10 URL []$\OT1/cmtt/m/it/10 http : / / www . sciencedirect . com 
+/ science / article / pii /
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 125--134
+\OT1/cmr/m/it/10 URL []$\OT1/cmtt/m/it/10 http : / / www . sciencedirect . com 
+/ science / article / pii /
+ []
+
+Missing character: There is no â in font cmti10!
+Missing character: There is no € in font cmti10!
+Missing character: There is no “ in font cmti10!
+
+Underfull \hbox (badness 1320) in paragraph at lines 136--145
+[]\OT1/cmr/m/it/10 B. Bod-mann, U. Holm, []Neutron-irradiated plas-tic scin-til
+-la-tors[], Nu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--142
-\OT1/cmr/m/n/10 URL []$\OT1/cmtt/m/n/10 http : / / www . sciencedirect . com / 
-science / article / pii /
+Underfull \hbox (badness 10000) in paragraph at lines 136--145
+\OT1/cmr/m/it/10 URL []$\OT1/cmtt/m/it/10 http : / / www . sciencedirect . com 
+/ science / article / pii /
+ []
+
+Missing character: There is no Ã in font cmti10!
+Missing character: There is no ƒ in font cmti10!
+Missing character: There is no Â in font cmti10!
+Missing character: There is no ¶ in font cmti10!
+
+Underfull \hbox (badness 3557) in paragraph at lines 147--156
+[]\OT1/cmr/m/it/10 B. Bod-mann, S. Gb, U. Holm, []\OMS/cmsy/m/n/10 f\OT1/cmr/m/
+it/10 LET\OMS/cmsy/m/n/10 g \OT1/cmr/m/it/10 ef-fects of neu-tron ir-ra-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--166
-\OT1/cmr/m/n/10 URL []$\OT1/cmtt/m/n/10 http : / / www . sciencedirect . com / 
-science / article / pii /
- []
-
-[15]
-Underfull \hbox (badness 2088) in paragraph at lines 175--184
-[]\OT1/cmr/m/n/10 K. John-son, H. Whitaker, []Tem-per-a-ture treat-ment of plas
--tic scin-
+Underfull \hbox (badness 6461) in paragraph at lines 147--156
+\OT1/cmr/m/it/10 di-ated plas-tic scin-til-la-tors[], Nu-clear In-stru-ments an
+d Meth-ods in
  []
 
 
-Underfull \hbox (badness 2393) in paragraph at lines 175--184
-\OT1/cmr/m/n/10 til-la-tor af-fects ra-di-a-tion hard-ness[], Nu-clear In-stru-
-ments and Meth-
+Underfull \hbox (badness 1661) in paragraph at lines 147--156
+\OT1/cmr/m/it/10 Physics Re-search Sec-tion B: Beam In-ter-ac-tions with Ma-te-
+ri-als and
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 175--184
-\OT1/cmr/m/n/10 ods in Physics Re-search Sec-tion A: Ac-cel-er-a-tors, Spec-tro
-m-e-ters,
+Underfull \hbox (badness 10000) in paragraph at lines 147--156
+\OT1/cmr/m/it/10 URL []$\OT1/cmtt/m/it/10 http : / / www . sciencedirect . com 
+/ science / article / pii /
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 175--183
+\OT1/cmr/m/it/10 URL []$\OT1/cmtt/m/it/10 http : / / www . sciencedirect . com 
+/ science / article / pii /
  []
 
 
-Underfull \hbox (badness 3417) in paragraph at lines 175--184
-\OT1/cmr/m/n/10 De-tec-tors and As-so-ci-ated Equip-ment 301 (2) (1991) 372 -- 
-375.
+Underfull \hbox (badness 2726) in paragraph at lines 192--201
+[]\OT1/cmr/m/it/10 K. John-son, H. Whitaker, []Tem-per-a-ture treat-ment of pla
+s-tic scin-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--184
-\OT1/cmr/m/n/10 URL []$\OT1/cmtt/m/n/10 http : / / www . sciencedirect . com / 
-science / article / pii /
+Underfull \hbox (badness 3029) in paragraph at lines 192--201
+\OT1/cmr/m/it/10 til-la-tor af-fects ra-di-a-tion hard-ness[], Nu-clear In-stru
+-ments and Meth-
  []
 
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no Î in font cmr10!
-Missing character: There is no ³ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--218
-\OT1/cmr/m/n/10 URL []$\OT1/cmtt/m/n/10 http : / / www . sciencedirect . com / 
-science / article / pii /
+Underfull \hbox (badness 6575) in paragraph at lines 192--201
+\OT1/cmr/m/it/10 ods in Physics Re-search Sec-tion A: Ac-cel-er-a-tors, Spec-tr
+om-e-ters,
  []
 
-[16])
+
+Underfull \hbox (badness 3803) in paragraph at lines 192--201
+\OT1/cmr/m/it/10 De-tec-tors and As-so-ci-ated Equip-ment 301 (2) (1991) 372 --
+ 375.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--201
+\OT1/cmr/m/it/10 URL []$\OT1/cmtt/m/it/10 http : / / www . sciencedirect . com 
+/ science / article / pii /
+ []
+
+[18]
+Underfull \hbox (badness 5022) in paragraph at lines 229--238
+[]\OT1/cmr/m/it/10 S. Ma-jew-ski, M. Bowen, C. Zorn, K. John-son, V. Hagopian,
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 229--238
+\OT1/cmr/m/it/10 J. Thomas-ton, H. Wahl, []Ra-di-a-tion dam-age stud-ies in pla
+s-tic scin-
+ []
+
+
+Underfull \hbox (badness 4205) in paragraph at lines 229--238
+\OT1/cmr/m/it/10 til-la-tors with a 2.5-mev elec-tron beam[], Nu-clear In-stru-
+ments and
+ []
+
+
+Underfull \hbox (badness 4181) in paragraph at lines 229--238
+\OT1/cmr/m/it/10 Meth-ods in Physics Re-search Sec-tion A: Ac-cel-er-a-tors, Sp
+ec-trom-e-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--238
+\OT1/cmr/m/it/10 URL []$\OT1/cmtt/m/it/10 http : / / www . sciencedirect . com 
+/ science / article / pii /
+ []
+
+Missing character: There is no â in font cmti10!
+Missing character: There is no € in font cmti10!
+Missing character: There is no “ in font cmti10!
+Missing character: There is no Î in font cmti10!
+Missing character: There is no ³ in font cmti10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--265
+\OT1/cmr/m/it/10 URL []$\OT1/cmtt/m/it/10 http : / / www . sciencedirect . com 
+/ science / article / pii /
+ []
+
+[19])
 
 Package natbib Warning: There were undefined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 74.
-[17]
+[20]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
  (./rad_dam_review.aux (./main.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 74.
@@ -515,35 +535,36 @@ Package rerunfilecheck Info: File `rad_dam_review.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 74.
  ) 
 Here is how much of TeX's memory you used:
- 6037 strings out of 493117
- 87869 string characters out of 6135433
- 179608 words of memory out of 5000000
- 9385 multiletter control sequences out of 15000+600000
- 8442 words of font info for 30 fonts, out of 8000000 for 9000
+ 6074 strings out of 493117
+ 88401 string characters out of 6135433
+ 181736 words of memory out of 5000000
+ 9410 multiletter control sequences out of 15000+600000
+ 8801 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,7n,32p,442b,544s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,7n,32p,540b,564s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></u
-sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
-/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
-ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/loca
-l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
-ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texliv
-e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
-/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2
-014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/201
-4/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2014
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2014/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2014/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2014/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on rad_dam_review.pdf (17 pages, 347335 bytes).
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pf
+b></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
+texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
+e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/
+2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/20
+14/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on rad_dam_review.pdf (20 pages, 373035 bytes).
 PDF statistics:
- 428 PDF objects out of 1000 (max. 8388607)
- 373 compressed objects within 4 object streams
- 56 named destinations out of 1000 (max. 500000)
+ 493 PDF objects out of 1000 (max. 8388607)
+ 433 compressed objects within 5 object streams
+ 67 named destinations out of 1000 (max. 500000)
  45 words of extra memory for PDF output out of 10000 (max. 10000000)
 

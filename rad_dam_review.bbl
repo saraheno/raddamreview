@@ -21,6 +21,17 @@ C.~Zorn,
   {\path{doi:10.1142/9789814360333_0004}}.
 \newline\urlprefix\url{http://www.worldscientific.com/doi/abs/10.1142/9789814360333_0004}
 
+\bibitem{Bross1990315}
+A.~D. Bross,
+  \href{http://www.sciencedirect.com/science/article/pii/016890029090707D}{Development
+  of intrinsic \{IPT\} scintillator}, Nuclear Instruments and Methods in
+  Physics Research Section A: Accelerators, Spectrometers, Detectors and
+  Associated Equipment 295~(3) (1990) 315 -- 322.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/0168-9002(90)90707-D}
+  {\path{doi:http://dx.doi.org/10.1016/0168-9002(90)90707-D}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/016890029090707D}
+
 \bibitem{stgobain}
 http://www.crystals.saint-gobain.com/Plastic\_Scintillation.aspx.
 
@@ -41,6 +52,9 @@ A.~Thomson, \href{http://dx.doi.org/10.1016/0307-4412(81)90077-7}{An
 
 \bibitem{anna}
 A.~Pla-Dalmau, private communication.
+
+\bibitem{forster}
+T.~Forster, Z. Naturforsch. a4 (1949) 321.
 
 \bibitem{birksblack}
 J.~B. Birks, F.~A. Black,
@@ -154,6 +168,9 @@ A.~Todd, \href{http://dx.doi.org/10.1002/pol.1960.1204213925}{The mechanisms of
   {\path{doi:10.1002/pol.1960.1204213925}}.
 \newline\urlprefix\url{http://dx.doi.org/10.1002/pol.1960.1204213925}
 
+\bibitem{kauffman}
+J.~Kauffman, Design of radiation hard fluors (1988) 677--740.
+
 \bibitem{weir}
 N.~Weir,
   \href{http://www.sciencedirect.com/science/article/pii/0020708X72901196}{The
@@ -182,12 +199,42 @@ K.~Johnson, H.~Whitaker,
   {\path{doi:http://dx.doi.org/10.1016/0168-9002(91)90480-E}}.
 \newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/016890029190480E}
 
+\bibitem{clough}
+R.~Clough, Radiation-Resistant Polymers, John Wiley and Sons, 1988, pp.
+  667--709.
+
+\bibitem{zorn2}
+C.~Zorn, B.~Kross, S.~Majewski, R.~Wojcik, K.~Johnson, Results of a low dose
+  rate irradiation of selected plastic scintillating fibers, in: Nuclear
+  Science Symposium and Medical Imaging Conference, 1991., Conference Record of
+  the 1991 IEEE, 1991, pp. 1498--1504 vol.3.
+\newblock \href {http://dx.doi.org/10.1109/NSSMIC.1991.259159}
+  {\path{doi:10.1109/NSSMIC.1991.259159}}.
+
+\bibitem{zorn3}
+C.~Zorn, S.~Majewski, R.~Wojcik, K.~Johnson, Progress in the design of a
+  radiation-hard plastic scintillator, Nuclear Science, IEEE Transactions on
+  38~(2) (1991) 194--199.
+\newblock \href {http://dx.doi.org/10.1109/23.289296}
+  {\path{doi:10.1109/23.289296}}.
+
 \bibitem{berlman}
 I.~berlman, \href{http://www.osti.gov/scitech/biblio/4337369}{The effect of
   massive co$^{60}$ doses on the light output of a scintillator solution},
   Radiological Physics Division Semiannula Report for July through December
   1957.
 \newline\urlprefix\url{http://www.osti.gov/scitech/biblio/4337369}
+
+\bibitem{Majewski1989500}
+S.~Majewski, M.~Bowen, C.~Zorn, K.~Johnson, V.~Hagopian, J.~Thomaston, H.~Wahl,
+  \href{http://www.sciencedirect.com/science/article/pii/0168900289914836}{Radiation
+  damage studies in plastic scintillators with a 2.5-mev electron beam},
+  Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
+  Spectrometers, Detectors and Associated Equipment 281~(3) (1989) 500 -- 507.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/0168-9002(89)91483-6}
+  {\path{doi:http://dx.doi.org/10.1016/0168-9002(89)91483-6}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/0168900289914836}
 
 \bibitem{Biagtan1996125}
 E.~Biagtan, E.~Goldberg, R.~Stephens, E.~Valeroso, J.~Harmon, Gamma dose and
@@ -215,6 +262,14 @@ J.~Klein, J.~Gresset, F.~Heisel, G.~Laustriat,
   {http://dx.doi.org/http://dx.doi.org/10.1016/0020-708X(67)90143-3}
   {\path{doi:http://dx.doi.org/10.1016/0020-708X(67)90143-3}}.
 \newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/0020708X67901433}
+
+\bibitem{white}
+J.~W. et~al., \href{https://books.google.com/books?id=yy90QgAACAAJ}{A Liquid
+  Scintillator Spaghetti Calorimeter EM Module for Forward Calorimetry at the
+  SSC}, World Scientific, 1991, proceedings of the Symposium on Detector
+  Research and Development for the Surperconducting Super Collider, October
+  15-18, 1990, Fort Worth, Texas.
+\newline\urlprefix\url{https://books.google.com/books?id=yy90QgAACAAJ}
 
 \bibitem{kenichi1}
 

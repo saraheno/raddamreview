@@ -4,9 +4,15 @@ The top-level auxiliary file: rad_dam_review.aux
 The style file: elsarticle-num.bst
 A level-1 auxiliary file: main.aux
 Database file #1: rad_dam_review.bib.bib
+Warning--I'm ignoring kauffman's extra "title" field
+--line 604 of file rad_dam_review.bib.bib
 Warning--I didn't find a database entry for "what"
 Warning--empty publisher in sauli
 Warning--empty year in sauli
+Warning--empty title in forster
+Warning--empty journal in kauffman
+Warning--empty chapter and pages in clough
+Warning--can't use both author and editor fields in white
 Warning--empty author in kenichi1
 Warning--empty title in kenichi1
 Warning--empty journal in kenichi1
@@ -14,45 +20,45 @@ Warning--empty author in kenichi2
 Warning--empty title in kenichi2
 Warning--empty journal in kenichi2
 Warning--empty journal in fsuliquid
-You've used 30 entries,
+You've used 38 entries,
             2937 wiz_defined-function locations,
-            872 strings with 10732 characters,
-and the built_in function-call counts, 8874 in all, are:
-= -- 852
-> -- 237
-< -- 2
-+ -- 99
-- -- 69
-* -- 772
-:= -- 1181
-add.period$ -- 50
-call.type$ -- 30
-change.case$ -- 23
+            926 strings with 12585 characters,
+and the built_in function-call counts, 11649 in all, are:
+= -- 1112
+> -- 308
+< -- 4
++ -- 128
+- -- 90
+* -- 988
+:= -- 1530
+add.period$ -- 62
+call.type$ -- 38
+change.case$ -- 29
 chr.to.int$ -- 0
-cite$ -- 39
-duplicate$ -- 256
-empty$ -- 1009
-format.name$ -- 86
-if$ -- 2293
+cite$ -- 51
+duplicate$ -- 347
+empty$ -- 1335
+format.name$ -- 110
+if$ -- 3026
 int.to.chr$ -- 0
-int.to.str$ -- 30
-missing$ -- 28
-newline$ -- 132
-num.names$ -- 25
-pop$ -- 174
+int.to.str$ -- 38
+missing$ -- 38
+newline$ -- 163
+num.names$ -- 33
+pop$ -- 230
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 524
+skip$ -- 696
 stack$ -- 0
-substring$ -- 500
-swap$ -- 88
-text.length$ -- 2
+substring$ -- 689
+swap$ -- 125
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 9
-while$ -- 49
-width$ -- 32
-write$ -- 282
-(There were 10 warnings)
+warning$ -- 13
+while$ -- 66
+width$ -- 40
+write$ -- 355
+(There were 15 warnings)
